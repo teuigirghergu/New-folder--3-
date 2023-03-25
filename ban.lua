@@ -10,3 +10,7 @@ Players.PlayerAdded:Connect(function(player)
         end
     end
 end)
+
+
+
+--This respitory is localized and locked any distribution under the illegal radar is reported to the DMCA office of Australia.---
